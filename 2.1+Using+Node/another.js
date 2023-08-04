@@ -10,3 +10,5 @@ function Clean(name, age) {
 
 var cleaner = new Clean("aman", 23);
 cleaner.clean();
+
+var newcomer = new Clean("fadf", 23);
