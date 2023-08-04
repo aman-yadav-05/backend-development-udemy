@@ -1,0 +1,4 @@
+name:aman yadav 
+ age:22
+
+added something which will be seen by fs.read();
